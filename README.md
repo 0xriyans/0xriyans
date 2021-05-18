@@ -55,9 +55,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/ryan_sgrt
-[instagram]: https://instagram.com/ryan_sgrt
+[website]: https://google.com
 [linkedin]: https://linkedin.com/in/riyan-sugiarto
 [webdevplaylist]: https://www.github.com/ryansgrt
 [jsplaylist]: https://www.github.com/ryansgrt
