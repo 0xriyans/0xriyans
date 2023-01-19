@@ -1,15 +1,13 @@
 ## Hi there, I'm Riyan Sugiarto 👋
 
-### I'm a web developer focusing on Backend development. Passionate about creating high quality apps, easy to use, and have high performance.
+### I'm a softwere engineer focusing on backend development. Passionate about creating high quality apps, easy to use, and have high performance.
 
 
 
 <!-- BLOG-POST-LIST:END -->
 
-
-- 🔭 powered by passion, driven by culture, curiosity to learn and connect with people.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 i’m currently learning everything 🤣
+- 👯 i’m looking to collaborate with other developers
 
 
 <br />
