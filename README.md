@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" />][jsplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://www.svgrepo.com/download/376350/spring.svg" />][jsplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://www.javatpoint.com/images/hibernate/hibernate2.png" />][jsplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
