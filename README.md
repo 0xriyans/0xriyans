@@ -4,8 +4,8 @@
 
 ---
 
-<h1 align="center">👋 Hello, I'm RIYAN SUGIARTO</h1>
-<h3 align="center">A passionate backend and web3 developer from Indonesia 🌏</h3>
+<h1 align="center">👋 Hello, I'm Riyan Sugiarto</h1>
+<h3 align="center">A passionate backend and web 3 developer from Indonesia 🌏</h3>
 
 ---
 
@@ -37,6 +37,14 @@ Here's a quick overview of my GitHub activity:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryansgrt&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Tambahkan jeda di sini -->
+<p align="center">
+  <br> <!-- atau gunakan <p></p> untuk spasi yang lebih besar -->
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansgrt&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
