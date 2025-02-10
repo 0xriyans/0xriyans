@@ -1,50 +1,76 @@
-## Hi there, I'm Riyan Sugiarto 👋
-
-### I'm a software engineer focusing on backend development. Passionate about creating high quality apps, easy to use, and have high performance.
-
-
-
-<!-- BLOG-POST-LIST:END -->
-
-- 🌱 i’m currently learning everything 🤣
-- 👯 i’m looking to collaborate with other developers
-
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/download/452234/java.svg" />][jsplaylist]
-[<img align="left" alt="Spring" width="26px" src="https://www.svgrepo.com/download/376350/spring.svg" />][jsplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />][webdevplaylist]
-[<img align="left" alt="Docker" width="26px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*BIV0jP28x5mL6mIcw4N8vg.png" />][webdevplaylist]
-[<img align="left" alt="Kubernetes" width="26px" src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/ggen-sasashun/20221025/20221025010343.png" />][webdevplaylist]
-
-<br />
-<br />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+the+future+together." alt="Typing SVG" />
+</p>
 
 ---
 
+<h1 align="center">👋 Hello, I'm Ryan Segara</h1>
+<h3 align="center">A passionate backend and web3 developer from Indonesia 🌏</h3>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryansgrt&show_icons=true&theme=radical" />
+### 🚀 About Me
+I'm a **Backend Developer** and **Web3 Enthusiast** with a passion for building scalable, decentralized, and futuristic solutions. I love diving deep into blockchain technology, smart contracts, and backend systems.
 
-</details>
+- 🔭 I’m currently working on **blockchain-based applications** and **backend systems**.
+- 🌱 I’m learning **Rust**, **Solidity**, and **advanced backend architectures**.
+- 💬 Ask me about **Node.js, Python, Web3, or anything backend-related**.
+- ⚡ Fun fact: I believe blockchain will revolutionize the future!
 
-[website]: https://google.com
-[linkedin]: https://linkedin.com/in/riyan-sugiarto
-[webdevplaylist]: https://www.github.com/ryansgrt
-[jsplaylist]: https://www.github.com/ryansgrt
-[cssplaylist]: https://www.github.com/ryansgrt
-[reactplaylist]: https://www.github.com/ryansgrt
+---
+
+### 🛠️ Tech Stack
+Here are some of the technologies I work with:
+
+| **Category**       | **Technologies**                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Backend**         | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **Web3**            | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black) ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) |
+| **Database**        | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps**          | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Tools**           | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+### 📈 GitHub Stats
+Here's a quick overview of my GitHub activity:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryansgrt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansgrt&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+Feel free to reach out to me! I'm always open to collaborations and discussions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryansgrt">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ryansgrt">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:ryansgrt23@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🎧 Currently Listening
+<p align="center">
+  <img src="https://spotify-readme-vercel.app/api/spotify?username=ynyixypfwaohmob32dnieyqma" alt="Spotify" />
+</p>
+
+---
+
+### 🚀 Thanks for Visiting!
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ryansgrt.ryansgrt" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  Let's build the future together! 🚀
+</p>
