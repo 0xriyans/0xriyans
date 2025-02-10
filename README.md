@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">👋 Hello, I'm Ryan Segara</h1>
+<h1 align="center">👋 Hello, I'm RIYAN SUGIARTO</h1>
 <h3 align="center">A passionate backend and web3 developer from Indonesia 🌏</h3>
 
 ---
@@ -57,12 +57,6 @@ Feel free to reach out to me! I'm always open to collaborations and discussions.
   </a>
 </p>
 
----
-
-### 🎧 Currently Listening
-<p align="center">
-  <img src="https://spotify-readme-vercel.app/api/spotify?username=ynyixypfwaohmob32dnieyqma" alt="Spotify" />
-</p>
 
 ---
 
