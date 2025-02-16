@@ -36,7 +36,7 @@ Here are some of the technologies I work with:
 Here's a quick overview of my GitHub activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryansgrt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xriyans&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Tambahkan jeda di sini -->
@@ -45,7 +45,7 @@ Here's a quick overview of my GitHub activity:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansgrt&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xriyans&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
@@ -54,13 +54,13 @@ Here's a quick overview of my GitHub activity:
 Feel free to reach out to me! I'm always open to collaborations and discussions.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ryansgrt">
+  <a href="https://www.linkedin.com/in/0xriyans">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/ryansgrt">
+  <a href="https://twitter.com/0xriyans">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:ryansgrt23@gmail.com">
+  <a href="mailto:0xriyans23@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -70,7 +70,7 @@ Feel free to reach out to me! I'm always open to collaborations and discussions.
 
 ### 🚀 Thanks for Visiting!
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ryansgrt.ryansgrt" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xriyans.0xriyans" alt="Visitor Count" />
 </p>
 
 <p align="center">
