@@ -39,14 +39,6 @@ I specialize in **Backend Engineering** with a strong foundation in Java, Spring
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xriyans&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xriyans&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
