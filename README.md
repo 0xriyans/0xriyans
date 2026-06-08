@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">👋 Hello, I'm Riyan Sugiarto</h1>
-<h3 align="center">A passionate Backend Engineer from Indonesia 🌏</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia 🌏</h3>
 
 <p align="center">
   <b>Building robust, scalable architectures and diving into Web3 solutions.</b>
