@@ -41,10 +41,10 @@ I specialize in **Backend Engineering** with a strong foundation in Java, Spring
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xriyans&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xriyans&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xriyans&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xriyans&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 ---
 
@@ -53,13 +53,13 @@ I specialize in **Backend Engineering** with a strong foundation in Java, Spring
 Feel free to reach out to me! I'm always open to collaborations and discussions.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/0xriyans">
+  <a href="https://www.linkedin.com/in/riyan-sugiarto">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/0xriyans">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:0xriyans23@gmail.com">
+  <a href="mailto:ryansgrt23@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
