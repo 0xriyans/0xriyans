@@ -17,7 +17,7 @@
 
 I specialize in **Backend Engineering** with a strong foundation in Java, Spring Boot, and modern web architectures. Alongside my primary stack, I am a **Web3 Enthusiast** passionate about decentralized solutions, smart contracts, and the future of blockchain technology.
 
-- 🔭 I’m currently building **enterprise-grade backend systems** and integrating secure payment gateways.
+- 🔭 I’m currently heavily focused on **system design** and writing clean, scalable backend code.
 - 🌱 I’m exploring deeper into **Web3 development** and autonomous AI integrations.
 - 💬 Ask me about **Java, Spring Ecosystem, Database Design, or anything backend-related**.
 - ⚡ Fun fact: When I'm not architecting complex backend systems, you'll find me relaxing and exploring new worlds in casual adventure games!
