@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Software Engineer from Indonesia 🌏</h3>
 
 <p align="center">
-  <b>Building robust, scalable architectures and diving into Web3 solutions.</b>
+  <b>Building robust, scalable architectures and currently exploring Web3.</b>
 </p>
 
 ---
