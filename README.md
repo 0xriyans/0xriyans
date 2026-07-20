@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=500&lines=Welcome+to+my+GitHub+Profile!;Backend+%26+Full-Stack+Software+Engineer;Building+Scalable+Systems+%26+AI+Integrations;Let's+build+the+future+together." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C5A880&center=true&vCenter=true&width=580&lines=Welcome+to+my+GitHub+Profile!;Backend+%26+Full-Stack+Software+Engineer;Spring+Boot+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+AI+Integrations;Open+for+Freelance+%26+Contract+Projects;Let's+build+something+extraordinary!" alt="Typing SVG" />
 </div>
 
 ---
 
 <h1 align="center">👋 Hello, I'm Riyan Sugiarto</h1>
-<h3 align="center">Software Engineer from Indonesia</h3>
+<h3 align="center">Software Engineer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <a href="#-lets-connect--hire-me">
