@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Riyan Sugiarto
 
-### Backend & Full-Stack Software Engineer from Indonesia 🇮🇩
+### Software Engineer from Indonesia 🇮🇩
 
 <p align="center">
   <a href="#-lets-connect--hire-me">
