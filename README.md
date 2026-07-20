@@ -1,22 +1,26 @@
+<div align="center">
+
 # 👋 Hello, I'm Riyan Sugiarto
 
-### Backend & Full-Stack Software Engineer from Indonesia
+### Backend & Full-Stack Software Engineer from Indonesia 🇮🇩
 
-<p align="left">
+<p align="center">
   <a href="#-lets-connect--hire-me">
     <img src="https://img.shields.io/badge/Status-Open_for_Freelance_%26_Contracts-success?style=for-the-badge&logo=github" alt="Open for Freelance" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <b>Architecting robust backend systems, integrating Generative AI, and exploring Web3 solutions.</b>
 </p>
+
+</div>
 
 ---
 
 ### 🚀 About Me
 
-I specialize in **Backend & Systems Engineering** with strong expertise in **Java (Spring Boot)** and **Python (FastAPI)**. I build high-performance microservices, seamless AI integrations (Google Gemini / Agentic Workflows), and modern full-stack web applications.
+I specialize in **Backend & Systems Engineering** with strong expertise in **Java (Spring Boot)** and **Python (FastAPI)**. I build high-performance microservices, seamless AI integrations (Google Gemini / Agentic Workflows), and full-stack web applications.
 
 - 🔭 **Current Focus:** Microservice architectures, AI function-calling, and high-throughput systems.
 - 💼 **Available For:** Freelance projects, technical consulting, and contract development.
@@ -44,7 +48,7 @@ I specialize in **Backend & Systems Engineering** with strong expertise in **Jav
 
 I'm open to freelance opportunities, technical discussions, and contract projects.
 
-<div align="left">
+<div align="center">
   <a href="https://www.fiverr.com/riyansugiarto">
     <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
@@ -64,7 +68,7 @@ I'm open to freelance opportunities, technical discussions, and contract project
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xriyans.0xriyans" alt="Visitor Count" />
   <p><b>Let's build the future together! 🚀</b></p>
 </div>
