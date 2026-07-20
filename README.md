@@ -1,19 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C5A880&center=true&vCenter=true&width=580&lines=Welcome+to+my+GitHub+Profile!;Backend+%26+Full-Stack+Software+Engineer;Spring+Boot+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+AI+Integrations;Open+for+Freelance+%26+Contract+Projects;Let's+build+something+extraordinary!" alt="Typing SVG" />
-</div>
+# 👋 Hello, I'm Riyan Sugiarto
 
----
+### Backend & Full-Stack Software Engineer from Indonesia
 
-<h1 align="center">👋 Hello, I'm Riyan Sugiarto</h1>
-<h3 align="center">Software Engineer from Indonesia 🇮🇩</h3>
-
-<p align="center">
+<p align="left">
   <a href="#-lets-connect--hire-me">
     <img src="https://img.shields.io/badge/Status-Open_for_Freelance_%26_Contracts-success?style=for-the-badge&logo=github" alt="Open for Freelance" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <b>Architecting robust backend systems, integrating Generative AI, and exploring Web3 solutions.</b>
 </p>
 
@@ -49,7 +44,7 @@ I specialize in **Backend & Systems Engineering** with strong expertise in **Jav
 
 I'm open to freelance opportunities, technical discussions, and contract projects.
 
-<div align="center">
+<div align="left">
   <a href="https://www.fiverr.com/riyansugiarto">
     <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
@@ -69,7 +64,7 @@ I'm open to freelance opportunities, technical discussions, and contract project
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xriyans.0xriyans" alt="Visitor Count" />
   <p><b>Let's build the future together! 🚀</b></p>
 </div>
