@@ -1,84 +1,156 @@
-<div align="center">
-
-# Hi, I'm Riyan Sugiarto
-
-### Software Engineer • Backend, Frontend & Product Engineering
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <a href="#-lets-connect">
-    <img src="https://img.shields.io/badge/Status-Open_for_Freelance_%26_Contracts-success?style=for-the-badge&logo=github" alt="Open for Freelance" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:1F6FEB&height=210&section=header&text=Riyan%20Sugiarto&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%2C%20Frontend%20%26%20System%20Design&descAlignY=58&descSize=16&descColor=C9D1D9" width="100%" alt="Riyan Sugiarto Header" />
+</p>
+
+<!-- QUICK ACTION & SOCIAL BAR -->
+<p align="center">
+  <a href="mailto:ryansgrt23@gmail.com">
+    <img src="https://img.shields.io/badge/Open_for_Freelance_%26_Contracts-238636?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Status" />
   </a>
-</p>
-
-<p align="center">
-  <b>Building end-to-end web products—from system design and backend APIs to production UIs.</b>
-</p>
-
-</div>
-
----
-
-### About Me
-
-Software Engineer based in Indonesia. My core background is in **backend engineering and system design**, paired with hands-on **frontend development** to ship complete, working products.
-
-I focus on writing maintainable code, making sensible architectural trade-offs, and solving actual technical or product bottlenecks rather than over-engineering.
-
-- **End-to-End Execution:** Designing schemas, APIs, and services (**Java / Spring Boot**, **Python / FastAPI**) through to frontend state and UI (**React**, **Next.js**, **TypeScript**, **Tailwind CSS**).
-- **Applied AI:** Integrating LLMs (**Google Gemini**), function calling, and automation pipelines directly into product workflows.
-- **Availability:** Open for freelance projects, contract engineering, and technical consulting.
-- **Currently Learning:** Autonomous AI agent workflows and Web3 smart contract fundamentals.
-- **Offline:** Playing casual adventure games.
-
----
-
-### What I Work On
-
-| **Area** | **Scope** |
-| :--- | :--- |
-| **End-to-End Product Delivery** | Scoping technical requirements, designing data models and APIs, and shipping full web applications from backend logic to frontend UI. |
-| **Backend & System Design** | Building microservices, third-party and payment gateway integrations, and debugging performance or reliability bottlenecks in production. |
-| **AI & Automation Workflows** | Implementing structured LLM integrations, tool-calling pipelines, and backend automation to eliminate repetitive manual processes. |
-
----
-
-### Tech Stack
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend & AI** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
-| **Data & Messaging** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLModel](https://img.shields.io/badge/-SQLModel-009688?style=flat-square&logo=pydantic&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
-| **Infra & Tooling** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Learning (Web3)** | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white) |
-
----
-
-### 📫 Let's Connect
-
-Available for freelance work, contract roles, or technical discussions.
-
-<div align="center">
   <a href="https://www.fiverr.com/riyansugiarto">
-    <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+    <img src="https://img.shields.io/badge/Fiverr-161B22?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0111240786693d428e">
-    <img src="https://img.shields.io/badge/-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-161B22?style=for-the-badge&logo=upwork&logoColor=14A800" alt="Upwork" />
   </a>
   <a href="https://www.linkedin.com/in/riyan-sugiarto/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/0xriyans">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" />
   </a>
   <a href="mailto:ryansgrt23@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-</div>
+</p>
 
-<br>
+<br />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xriyans.0xriyans" alt="Visitor Count" />
-</div>
+<!-- INTRO -->
+<p align="center">
+  Software Engineer based in <b>Indonesia</b>. Core background in <b>backend engineering & system design</b>, paired with <b>frontend development</b> to ship complete, working products.<br />
+  Focused on maintainable architecture, pragmatic trade-offs, and solving actual product or technical bottlenecks.
+</p>
+
+<br />
+
+<!-- BENTO GRID: CORE SCOPE -->
+### Scope & Engineering Focus
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>⚙️ Backend & System Design</h4>
+      <p>
+        Designing data models, APIs, and distributed services with <b>Java (Spring Boot)</b> and <b>Python (FastAPI)</b>. Handling payment integrations, third-party APIs, and production performance bottlenecks.
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🖥️ Product & Frontend</h4>
+      <p>
+        Building responsive interfaces and client-side state with <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>. Owning features end-to-end from technical scoping to deployment.
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🤖 AI & Automation</h4>
+      <p>
+        Integrating <b>Google Gemini</b>, structured tool-calling, and automated pipelines directly into product workflows to remove repetitive manual processes.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- UNIFIED DARK TECH STACK -->
+### Tech Stack
+
+<table>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4479A1" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-161B22?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/Quarkus-161B22?style=for-the-badge&logo=quarkus&logoColor=4695EB" alt="Quarkus" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+      <img src="https://img.shields.io/badge/Angular-161B22?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & Messaging</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQL_Server-161B22?style=for-the-badge&logoColor=CC2927" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+      <img src="https://img.shields.io/badge/SQLModel-161B22?style=for-the-badge&logo=pydantic&logoColor=009688" alt="SQLModel" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-161B22?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka" />
+      <img src="https://img.shields.io/badge/RabbitMQ-161B22?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra & Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logoColor=FF9900" alt="AWS" />
+      <img src="https://img.shields.io/badge/SonarQube-161B22?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
+      <img src="https://img.shields.io/badge/JUnit-161B22?style=for-the-badge&logo=junit5&logoColor=25A162" alt="JUnit" />
+      <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Exploring</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Solidity-161B22?style=for-the-badge&logo=solidity&logoColor=FFFFFF" alt="Solidity" />
+      <img src="https://img.shields.io/badge/Ethereum-161B22?style=for-the-badge&logo=ethereum&logoColor=8C8C8C" alt="Ethereum" />
+      <img src="https://img.shields.io/badge/Web3.js-161B22?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3.js" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- GITHUB METRICS -->
+### GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xriyans&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xriyans&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
+</p>
+
+<br />
+
+<!-- NOTES & FOOTER -->
+<p align="center">
+  <sub>Currently exploring autonomous AI agent workflows & Web3 fundamentals • Offline: playing casual adventure games.</sub>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xriyans.0xriyans&left_color=161B22&right_color=1F6FEB" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,45:161B22,100:0D1117&height=90&section=footer" width="100%" alt="Footer" />
+</p>
