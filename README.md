@@ -35,31 +35,17 @@
 
 <br />
 
-<!-- BENTO GRID: CORE SCOPE -->
+<!-- CORE SCOPE -->
 ### Scope & Engineering Focus
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>⚙️ Backend & System Design</h4>
-      <p>
-        Designing data models, APIs, and distributed services with <b>Java (Spring Boot)</b> and <b>Python (FastAPI)</b>. Handling payment integrations, third-party APIs, and production performance bottlenecks.
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4>🖥️ Product & Frontend</h4>
-      <p>
-        Building responsive interfaces and client-side state with <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>. Owning features end-to-end from technical scoping to deployment.
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4>🤖 AI & Automation</h4>
-      <p>
-        Integrating <b>Google Gemini</b>, structured tool-calling, and automated pipelines directly into product workflows to remove repetitive manual processes.
-      </p>
-    </td>
-  </tr>
-</table>
+- **⚙️ Backend & System Design**  
+  Designing data models, APIs, and distributed services with **Java (Spring Boot)** and **Python (FastAPI)**. Handling payment integrations, third-party APIs, and production performance bottlenecks.
+
+- **🖥️ Product & Frontend**  
+  Building responsive interfaces and client-side state with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. Owning features end-to-end from technical scoping to deployment.
+
+- **🤖 AI & Automation**  
+  Integrating **Google Gemini**, structured tool-calling, and automated pipelines directly into product workflows to remove repetitive manual processes.
 
 <br />
 
