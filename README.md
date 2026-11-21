@@ -38,14 +38,14 @@
 <!-- CORE SCOPE -->
 ### Scope & Engineering Focus
 
-- **⚙️ Backend & System Design**  
-  Designing data models, APIs, and distributed services with **Java (Spring Boot)** and **Python (FastAPI)**. Handling payment integrations, third-party APIs, and production performance bottlenecks.
+#### ⚙️ Backend & System Design
+> Designing data models, APIs, and distributed services with **Java (Spring Boot)** and **Python (FastAPI)**. Handling payment integrations, third-party APIs, and production performance bottlenecks.
 
-- **🖥️ Product & Frontend**  
-  Building responsive interfaces and client-side state with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. Owning features end-to-end from technical scoping to deployment.
+#### 🖥️ Product & Frontend
+> Building responsive interfaces and client-side state with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. Owning features end-to-end from technical scoping to deployment.
 
-- **🤖 AI & Automation**  
-  Integrating **Google Gemini**, structured tool-calling, and automated pipelines directly into product workflows to remove repetitive manual processes.
+#### 🤖 AI & Automation
+> Integrating **Google Gemini**, structured tool-calling, and automated pipelines directly into product workflows to remove repetitive manual processes.
 
 <br />
 
