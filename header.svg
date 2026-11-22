@@ -26,5 +26,5 @@
   <path d="M0,12 Q0,0 12,0 L1188,0 Q1200,0 1200,12 L1200,165 C1000,218 820,148 600,178 C380,208 200,148 0,185 Z" fill="url(#headerGrad)" />
 
   <text x="600" y="92" text-anchor="middle" class="title">Riyan Sugiarto</text>
-  <text x="600" y="130" text-anchor="middle" class="subtitle">Software Engineer • Backend, Frontend &amp; System Design</text>
+  <text x="600" y="130" text-anchor="middle" class="subtitle">Software Engineer • End-to-End Product Engineering</text>
 </svg>
