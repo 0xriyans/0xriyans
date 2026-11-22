@@ -29,8 +29,9 @@
 
 <!-- INTRO -->
 <p align="center">
-  Software Engineer based in <b>Indonesia</b>. Core background in <b>backend engineering & system design</b>, paired with <b>frontend development</b> to ship complete, working products.<br />
-  Focused on maintainable architecture, pragmatic trade-offs, and solving actual product or technical bottlenecks.
+  Software Engineer based in <b>Indonesia</b> who spends half the time designing <b>backend systems, APIs, and databases</b>, and the other half negotiating with CSS to center a div.<br />
+  I build products end-to-end—covering <b>system architecture, frontend UIs, and applied AI workflows</b>—so features actually ship without waiting three sprints for a handoff.<br />
+  Strong believer in maintainable code, pragmatic trade-offs, and not deploying Kubernetes just to serve a contact form.
 </p>
 
 <br />
