@@ -35,7 +35,6 @@
 
 <br />
 
-
 <!-- UNIFIED DARK TECH STACK -->
 ### Tech Stack
 
@@ -51,12 +50,26 @@
     </td>
   </tr>
   <tr>
-    <td><b>Backend & AI</b></td>
+    <td><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_Cloud-161B22?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Cloud" />
       <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
       <img src="https://img.shields.io/badge/Quarkus-161B22?style=flat-square&logo=quarkus&logoColor=4695EB" alt="Quarkus" />
+      <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/Anthropic-161B22?style=flat-square&logo=anthropic&logoColor=D97757" alt="Anthropic" />
+      <img src="https://img.shields.io/badge/OpenAI_API-161B22?style=flat-square" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=FFFFFF" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+      <img src="https://img.shields.io/badge/RAG_%26_Agents-161B22?style=flat-square" alt="RAG & Agents" />
     </td>
   </tr>
   <tr>
