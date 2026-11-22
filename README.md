@@ -6,7 +6,7 @@
 <!-- QUICK ACTION & SOCIAL BAR -->
 <p align="center">
   <a href="mailto:ryansgrt23@gmail.com">
-    <img src="https://img.shields.io/badge/Open_for_Freelance_%26_Contracts-238636?style=flat-square&logo=github&logoColor=FFFFFF" alt="Status" />
+    <img src="https://img.shields.io/badge/Open_for_Freelance-238636?style=flat-square&logo=github&logoColor=FFFFFF" alt="Status" />
   </a>
   <a href="https://www.fiverr.com/riyansugiarto">
     <img src="https://img.shields.io/badge/Fiverr-161B22?style=flat-square&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
